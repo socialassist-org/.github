@@ -1,1 +1,1 @@
-# .github
+# SocialAssist.org on GitHub
